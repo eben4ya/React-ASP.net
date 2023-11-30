@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quest.io", "Quest.io\Quest.io.csproj", "{21D34F20-AF9F-4C18-84E1-6D87526E41FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21D34F20-AF9F-4C18-84E1-6D87526E41FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21D34F20-AF9F-4C18-84E1-6D87526E41FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21D34F20-AF9F-4C18-84E1-6D87526E41FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21D34F20-AF9F-4C18-84E1-6D87526E41FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4B127C1-2499-45CA-97AA-D1EB0AB4E89B}
+	EndGlobalSection
+EndGlobal
